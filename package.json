@@ -8,11 +8,12 @@
     "export": "next export"
   },
   "dependencies": {
+    "@typeform/embed": "2.5.1",
+    "@typeform/embed-react": "^2.21.0",
     "cypress": "^10.0.3",
     "next": "^12.1.5",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "@typeform/embed": "2.5.1",
-    "@typeform/embed-react": "2.10.0"
+    "yarn": "^1.22.19"
   }
 }
